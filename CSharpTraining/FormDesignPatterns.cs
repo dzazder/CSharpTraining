@@ -10,20 +10,11 @@ using System.Windows.Forms;
 
 namespace CSharpTraining
 {
-    public partial class Form1 : Form
+    public partial class FormDesignPatterns : Form
     {
-        public Form1()
+        public FormDesignPatterns()
         {
             InitializeComponent();
-
-            FormMain formMain = new FormMain();
-            formMain.MdiParent = this;
-            formMain.WindowState = FormWindowState.Maximized;
-            formMain.MdiForm = this;
-            formMain.Show();
-
-
         }
-        
     }
 }

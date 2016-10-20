@@ -7,3 +7,4 @@ G:\projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.Properties.Re
 G:\projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.csproj.GenerateResource.Cache
 G:\projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.exe
 G:\projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.pdb
+G:\projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.FormMain.resources
