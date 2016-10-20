@@ -1,0 +1,9 @@
+G:\projects\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.exe.config
+G:\projects\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.exe
+G:\projects\CSharpTraining\CSharpTraining\bin\Debug\CSharpTraining.pdb
+G:\projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.csprojResolveAssemblyReference.cache
+G:\projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.Form1.resources
+G:\projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.Properties.Resources.resources
+G:\projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.csproj.GenerateResource.Cache
+G:\projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.exe
+G:\projects\CSharpTraining\CSharpTraining\obj\Debug\CSharpTraining.pdb
